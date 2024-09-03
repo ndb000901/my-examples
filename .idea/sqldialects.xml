@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/mysql-8/functions/Encryption.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql-8/functions/arithmetic-operators.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql-8/functions/cast.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql-8/functions/date.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql-8/functions/flow-control-fn.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql-8/functions/information-fn.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql-8/functions/json.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql-8/functions/mathematical.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql-8/functions/miscellaneous-fn.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql-8/functions/string.sql" dialect="MySQL" />
+  </component>
+</project>
